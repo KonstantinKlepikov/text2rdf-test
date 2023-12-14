@@ -150,4 +150,6 @@ cython_debug/
 docker-stack.yml
 
 # research
-*.props
+src/research/*.props
+src/research/*.png
+src/research/*.txt
